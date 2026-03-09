@@ -17,15 +17,13 @@
 
 <br/>
 
-```js
-const projects = [
-  {
-    name: "soundcloud-true-shuffle",
-    desc: "fixes soundcloud's broken shuffle — loads all tracks, truly random, background tab safe",
-    link: "github.com/mrketa/soundcloud-true-shuffle"
-  }
-]
-```
+### projects
+
+<br/>
+
+| project | description |
+|---|---|
+| [soundcloud-true-shuffle](https://github.com/mrketa/soundcloud-true-shuffle) | fixes soundcloud's broken shuffle — loads all tracks, truly random, background tab safe |
 
 <br/>
 
