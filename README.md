@@ -1,44 +1,70 @@
 <div align="center">
 
-<br/>
-
 # mr-keta
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=building+small+things+that+fix+bigger+annoyances" />
+**Small, focused tools for problems that should not be annoying.**
 
-<br/>
+Local-first software, narrow interfaces, predictable behavior.
 
-[![Greasy Fork](https://img.shields.io/badge/greasy%20fork-scripts-white?style=flat-square&logo=tampermonkey&logoColor=black&labelColor=white&color=white)](https://greasyfork.org/en/users/1578088-mrketa)
-[![Reddit](https://img.shields.io/badge/reddit-mrketa1337-white?style=flat-square&logo=reddit&logoColor=black&labelColor=white&color=white)](https://reddit.com/u/mrketa1337)
+[![Greasy Fork](https://img.shields.io/badge/Greasy_Fork-published_scripts-f05d23?style=flat-square&logo=tampermonkey&logoColor=white)](https://greasyfork.org/en/users/1578088-mrketa)
+[![Reddit](https://img.shields.io/badge/Reddit-mrketa1337-ff4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/u/mrketa1337)
+[![Open Source](https://img.shields.io/badge/Open_Source-MIT_%2B_Apache--2.0-2f81f7?style=flat-square)](https://github.com/mrketa?tab=repositories)
 
-<br/>
-
----
-
-<br/>
-
-### projects
-
-<br/>
-
-| project | description |
-|---|---|
-| [soundcloud-true-shuffle](https://github.com/mrketa/soundcloud-true-shuffle) | fixes soundcloud's broken shuffle — loads all tracks, truly random, background tab safe |
-
-<br/>
+</div>
 
 ---
 
-<br/>
+## Selected work
 
-![JavaScript](https://img.shields.io/badge/javascript-333?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Lua](https://img.shields.io/badge/lua-333?style=flat-square&logo=lua&logoColor=white)
-![Tampermonkey](https://img.shields.io/badge/tampermonkey-333?style=flat-square&logo=tampermonkey&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### SoundCloud True Shuffle
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrketa&show_icons=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&border_color=222&border_radius=6&hide_title=true" height="120"/>
+A Tampermonkey userscript that fixes SoundCloud shuffle: it loads the complete track list, produces a real randomized order, and keeps working when the tab is in the background.
 
-<br/><br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=f7df1e)
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-181717?style=flat-square&logo=tampermonkey&logoColor=white)
+![MIT](https://img.shields.io/github/license/mrketa/soundcloud-true-shuffle?style=flat-square&color=2f81f7)
 
+[**Repository**](https://github.com/mrketa/soundcloud-true-shuffle) · [**Install on Greasy Fork**](https://greasyfork.org/en/scripts/568821-soundcloud-true-shuffle)
+
+</td>
+<td width="50%" valign="top">
+
+### Potassium MCP Bridge
+
+A standalone, read-only MCP bridge for bounded Roblox inspection. Local loopback transport, Protocol 2 mutual authentication, redacted output, and deliberately narrow tools.
+
+![Node.js](https://img.shields.io/badge/Node.js_22+-181717?style=flat-square&logo=nodedotjs&logoColor=5fa04e)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-181717?style=flat-square&logoColor=white)
+![Release](https://img.shields.io/github/v/release/mrketa/celestial-potassium-mcp?include_prereleases&style=flat-square&color=2f81f7)
+![Apache 2.0](https://img.shields.io/github/license/mrketa/celestial-potassium-mcp?style=flat-square&color=2f81f7)
+
+[**Repository**](https://github.com/mrketa/celestial-potassium-mcp) · [**Windows releases**](https://github.com/mrketa/celestial-potassium-mcp/releases)
+
+</td>
+</tr>
+</table>
+
+## How I build
+
+- **Solve the actual friction.** Small utilities should remove work, not create a new workflow.
+- **Keep authority narrow.** Local-first, bounded, explicit, and easy to inspect.
+- **Ship complete paths.** Setup, verification, rollback, and documentation belong to the product.
+
+## Tools I reach for
+
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=f7df1e)
+![Node.js](https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs&logoColor=5fa04e)
+![Lua](https://img.shields.io/badge/Lua-181717?style=flat-square&logo=lua&logoColor=7aa2f7)
+![PowerShell](https://img.shields.io/badge/PowerShell-181717?style=flat-square&logo=powershell&logoColor=5391fe)
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-181717?style=flat-square&logo=tampermonkey&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-181717?style=flat-square&logo=githubactions&logoColor=2088ff)
+
+---
+
+<div align="center">
+<sub>Building practical open-source tools, one sharp edge at a time.</sub>
 </div>
