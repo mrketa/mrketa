@@ -82,6 +82,6 @@ A Tampermonkey userscript that replaces partial SoundCloud shuffle with a comple
 
 Building practical open-source tools, one sharp edge at a time.
 
-[Repositories](https://github.com/mrketa?tab=repositories) · [Releases](https://github.com/mrketa/potassium-mcp/releases) · [Greasy Fork](https://greasyfork.org/en/users/1578088-mrketa)
+[Repositories](https://github.com/mrketa?tab=repositories) · [Greasy Fork](https://greasyfork.org/en/users/1578088-mrketa)
 
 </div>
