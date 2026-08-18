@@ -24,7 +24,7 @@ I build local-first software that removes friction without creating a larger sys
 A Windows-first local MCP bridge for Potassium. Bounded inspection by default, authenticated loopback transport, shared broker architecture, and explicit opt-in trusted administration.
 
 [![CI](https://github.com/mrketa/potassium-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/mrketa/potassium-mcp/actions/workflows/ci.yml)
-[![npm](https://img.shields.io/npm/v/%40mrketa%2Fpotassium-mcp?label=npm&style=flat-square&color=cb3837)](https://www.npmjs.com/package/@mrketa/potassium-mcp)
+[![npm next](https://img.shields.io/npm/v/%40mrketa%2Fpotassium-mcp/next?label=npm%20next&style=flat-square&color=cb3837)](https://www.npmjs.com/package/@mrketa/potassium-mcp/v/0.9.0-beta.2)
 ![Node.js](https://img.shields.io/badge/Node.js_22+-181717?style=flat-square&logo=nodedotjs&logoColor=5fa04e)
 ![License](https://img.shields.io/github/license/mrketa/potassium-mcp?style=flat-square&color=2f81f7)
 
