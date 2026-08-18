@@ -6,6 +6,12 @@
 
 I build local-first software that removes friction without creating a larger system around it.
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-bridge-static.png">
+  <img src="./assets/profile-bridge.gif" alt="Animated local bridge from an MCP host through Potassium MCP to the Potassium client" width="100%">
+</picture>
+
+
 [![Potassium MCP](https://img.shields.io/badge/featured-Potassium_MCP-2f81f7?style=for-the-badge)](https://github.com/mrketa/potassium-mcp)
 [![Greasy Fork](https://img.shields.io/badge/Greasy_Fork-published_scripts-f05d23?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://greasyfork.org/en/users/1578088-mrketa)
 
