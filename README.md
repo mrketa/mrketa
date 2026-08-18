@@ -2,18 +2,15 @@
 
 # mr keta
 
-### Small tools. Narrow interfaces. Predictable behavior.
-
-I build local-first software that removes friction without creating a larger system around it.
+Developer from Germany building focused, local-first tools that remove friction without creating a larger system around them.
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-bridge-static.png">
-  <img src="./assets/profile-bridge.gif" alt="Animated local bridge from an MCP host through Potassium MCP to the Potassium client" width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-header-static.png">
+  <img src="./assets/profile-header.gif" alt="Animated profile banner reading Small tools. Sharp edges." width="100%">
 </picture>
 
-
-[![Potassium MCP](https://img.shields.io/badge/featured-Potassium_MCP-2f81f7?style=for-the-badge)](https://github.com/mrketa/potassium-mcp)
 [![Greasy Fork](https://img.shields.io/badge/Greasy_Fork-published_scripts-f05d23?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://greasyfork.org/en/users/1578088-mrketa)
+[![Open Source](https://img.shields.io/badge/Open_Source-projects-2f81f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrketa?tab=repositories)
 
 </div>
 
