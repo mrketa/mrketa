@@ -39,7 +39,6 @@ A Windows-first local MCP bridge for Potassium. Bounded inspection by default, a
 
 A Tampermonkey userscript that replaces partial SoundCloud shuffle with a complete randomized queue and keeps working when the tab is in the background.
 
-[![CI](https://github.com/mrketa/soundcloud-true-shuffle/actions/workflows/ci.yml/badge.svg)](https://github.com/mrketa/soundcloud-true-shuffle/actions)
 ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-181717?style=flat-square&logo=tampermonkey&logoColor=white)
 ![License](https://img.shields.io/github/license/mrketa/soundcloud-true-shuffle?style=flat-square&color=2f81f7)
